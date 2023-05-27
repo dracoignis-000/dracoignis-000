@@ -2,9 +2,8 @@
 
 
 
-```
-Hello, I'm Tarry Godfrey Gaoseb, a professional Software Developer and Data Analyst. I have a diverse skill set and a passion for utilizing technology to solve complex problems. With a background in digital marketing, web development, and data analytics, I bring a unique perspective to my work.
-```
+
+## Hello, I'm Tarry Godfrey Gaoseb, a professional Software Developer and Data Analyst. I have a diverse skill set and a passion for utilizing technology to solve complex problems. With a background in digital marketing, web development, and data analytics, I bring a unique perspective to my work.
 
  
 <a href="https://github.com/dracoignis-000">
