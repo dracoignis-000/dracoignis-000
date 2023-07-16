@@ -1,89 +1,32 @@
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%A3BE8C&size=20&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+@Godfrey+Tarry+Gaoseb;Computer+Science+Student;Competitive+Programmer;Expert+on+Artificial+Intelligence;Encourage+Morality!;Inspire+Transformation;"></a>
+</p>
+<br>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
+## About 
 
+Tarry Godfrey Gaoseb is a highly skilled and dedicated Software Developer and Data Analyst with expertise in various domains. He has a strong passion for leveraging technology to solve complex problems. In his role as a Software Engineer at Mindsinaction Namibia, he has experience in web development and Android development. Tarry is proficient in programming languages like HTML, JavaScript, React.js, HTML5, CSS, Node.js, MySQL, PHP, Python, and Java. He has successfully delivered diverse web development projects, including e-commerce platforms, websites, and mobile applications. Tarry is committed to continuous learning and professional development to stay updated with the latest industry trends.
 
+Apart from his professional endeavors, he enjoys arts, particularly drawing, and possesses graphic design skills, utilizing Figma for visually captivating designs. Tarry is always seeking new challenges to expand his knowledge and skill set. He holds a Bachelor's degree in Information Technology from the Namibia University of Science and Technology. Additionally, he has completed various certifications, including digital marketing, project management, and database administration.
 
+Tarry Godfrey Gaoseb is open to inquiries and potential collaborations, and he is enthusiastic about contributing to the success of organizations with his multidisciplinary expertise.
 
-## Hello, I'm Tarry Godfrey Gaoseb, a professional Software Developer and Data Analyst. I have a diverse skill set and a passion for utilizing technology to solve complex problems. With a background in digital marketing, web development, and data analytics, I bring a unique perspective to my work.
+<p align="center">
 
- 
-<a href="https://github.com/dracoignis-000">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dracoignis-000&theme=blueberry" width="500"/>
-</a>
-
-
-
- ```
-This week I spent my time on...
-``` 
-<img alt="Hola" height="30px" width="40px" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/ghost_1f47b.png">
-
- ---
-
-```text
-⌚︎ Time Zone: Africa/Namibia
-
-💬 Programming Languages: 
-React.                   5 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   34.87% 
-JavaScript               4 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   25.69% 
-Python                   3 hrs               ████░░░░░░░░░░░░░░░░░░░░░   18.72% 
-JSON                     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.55% 
-Markdown                 7 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   4.96%
-
-🔥 Editors: 
-VS Code                  12 hrs 36 mins      ███████████████████░░░░░░   78.58% 
-PyCharm                  3 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   19.27% 
-Android Studio           20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.16%
-
-💻 Operating System: 
-Linux A                  56 hrs 2 mins       █████████████████████████   100.0%
-
-```
- <a href="https://github.com/dracoignis-000"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dracoignis-000&theme=tokyonight&hide_border=true"  width="520" alt="Amardeep Kesharwani"/></a>
- 
----
-
-```
-Connect with me via the following Social Media platforms!
-```
-
-
-<div align=center>
-  <a href="https://www.linkedin.com/in/glazed-ape/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
-
-  <a href="mailto:godgaoseb@gmail.com?subject=Hi%20William%20,%20nice%20to%20meet%20you!"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
-  
- <a href="https://www.instagram.com/emit.na/" target="_blank">
-<img src="https://img.shields.io/badge/instagram-%ff5851db.svg?color=f02b9a&style=for-the-badge&logo=instagram&logoColor=white" t=instagram style="margin-bottom: 5px;" />
-</a>
-</div>
-
----
-
-<a href="https://github.com/AmardeepKesharwani"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dracoignis-000&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="420"  alt="AmardeepKesharwani"/></a>
-
----
-
-
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
-
-```javascript
-const thai = { 
-	pronouns: "him" | "his", 
-	code: [Javascript, HTML, CSS, Python, Java],
-	 
-	tools: [React, Node, Storybook, Styled-Components, Jest,
-	Docker], 
-	
-	architecture: ["microservices", "event-driven", "design system
-	pattern"], 
-	
-	techCommunities: { coorganizer: "AfroPython", speaker: "Latinity",
-	 
-	
-	challenge: "I am doing the #100DaysOfCode challenge focused on react
-	and typescript" }
-```
-
----
-# The End <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/glazed-ape/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/19614316/ignis-draco">
+				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/papaya.mamone">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/tarrygaoseb">
+			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/@giving_ai">
+				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
+		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
+					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
+      </div>
