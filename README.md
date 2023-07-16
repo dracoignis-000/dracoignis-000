@@ -6,7 +6,11 @@
 
 ## About 
 
-Tarry Godfrey Gaoseb is a highly skilled and dedicated Software Developer and Data Analyst with expertise in various domains. He has a strong passion for leveraging technology to solve complex problems. In his role as a Software Engineer at Mindsinaction Namibia, he has experience in web development and Android development. Tarry is proficient in programming languages like HTML, JavaScript, React.js, HTML5, CSS, Node.js, MySQL, PHP, Python, and Java. He has successfully delivered diverse web development projects, including e-commerce platforms, websites, and mobile applications. Tarry is committed to continuous learning and professional development to stay updated with the latest industry trends.
+Tarry Godfrey Gaoseb is a highly skilled and dedicated Software Developer and Data Analyst with expertise in various domains. He has a strong passion for leveraging technology to solve complex problems.
+
+In his role as a Software Engineer at Mindsinaction Namibia, he has experience in web development and Android development.
+
+Tarry is proficient in programming languages like HTML, JavaScript, React.js, HTML5, CSS, Node.js, MySQL, PHP, Python, and Java. He has successfully delivered diverse web development projects, including e-commerce platforms, websites, and mobile applications. Tarry is committed to continuous learning and professional development to stay updated with the latest industry trends.
 
 Apart from his professional endeavors, he enjoys arts, particularly drawing, and possesses graphic design skills, utilizing Figma for visually captivating designs. Tarry is always seeking new challenges to expand his knowledge and skill set. He holds a Bachelor's degree in Information Technology from the Namibia University of Science and Technology. Additionally, he has completed various certifications, including digital marketing, project management, and database administration.
 
